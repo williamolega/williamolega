@@ -10,7 +10,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/williamolega/Threat-Hunt-Scenario-Tor)**
+- **[Tor Browser Threat Hunt](https://github.com/williamolega/Threat-Hunt-Scenario-Tor)**
+- **[Helpdesk Deception Threat Hunt](https://github.com/williamolega/Helpdesk-Deception-Threat-Hunt)**
 
 <hr/>
 
