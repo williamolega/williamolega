@@ -1,7 +1,11 @@
 <#
 .SYNOPSIS
   Windows 11 must be configured to enable Remote host allows delegation of non-exportable credentials. Enabling this configures the host to support Restricted Admin mode or Remote Credential Guard.
-  
+
+.NOTES
+    Author          : William Olega
+    LinkedIn        : linkedin.com/in/williamolega/
+    GitHub          : github.com/williamolega
     Date Created    : 2025-11-12
     Last Modified   : 2025-11-12
     Version         : 1.0
