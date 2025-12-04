@@ -6,6 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/williamolega/Vulnerability-Management-Program-Implementation)**
+- **[Windows 11 STIG Remediations (Powershell) ](https://github.com/williamolega/williamolega/tree/main/STIGs)**
 <!--- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**-->
 
 ## 🎯 Threat Hunting and Security Operations
