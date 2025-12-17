@@ -1,34 +1,106 @@
-# <a href="https://www.linkedin.com/in/williamolega/">William Olega</a>'s IT and Cybersecurity Project Portfolio 🏅
+# ⚡William Olega: Cybersecurity Portfolio  
+*A collection of labs, hunts, and infrastructure projects from a curious mind focused on understanding how security really works.*
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+**I learn by doing.**
 
+This portfolio is where I build systems, investigate behavior, harden environments, and turn complexity into clarity.  
+It reflects how I think about security: calmly, structurally, and with long-term impact in mind.
 
-## ⚠️ Vulnerability Management Projects
+---
 
-- **[Vulnerability Management Program Implementation](https://github.com/williamolega/Vulnerability-Management-Program-Implementation)**
-- **[Windows 11 STIG Remediations (Powershell) ](https://github.com/williamolega/williamolega/tree/main/STIGs)**
-<!--- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**-->
+## 🎯 What This Portfolio Represents
 
-## 🎯 Threat Hunting and Security Operations
+- Hands-on security intuition (not just theory)
+- End-to-end thinking: infrastructure → identity → detection
+- Clear documentation and explainable decisions
+- Continuous growth through intentional projects
 
-- **[Tor Browser Threat Hunt](https://github.com/williamolega/Threat-Hunt-Scenario-Tor)**
-- **[Helpdesk Deception Threat Hunt](https://github.com/williamolega/Helpdesk-Deception-Threat-Hunt)**
+> *North Star:* Become a calm, trusted security advisor with deep technical credibility.
 
-<hr/>
+---
+
+## 🏗️ Enterprise Infrastructure & Identity
+
+### 🔹 **Enterprise Active Directory Network Infrastructure Lab**  
+*Windows Server 2022 | Windows 11 | VMware*
+
+- AD domain design with integrated DNS  
+- Secure internal network segmentation  
+- Domain-joined client configuration  
+- Identity-focused audit and logging setup  
+- Designed as a foundation for future security tooling  
+
+➡️ **[View the AD Lab Repository](https://github.com/williamolega/Enterprise-Active-Directory-Network-Infrastructure-Lab-Windows-Server-2022-VMware-)**
+
+---
+
+<!-- FUTURE:
+- Hybrid identity (Entra ID)
+- Identity attack simulations
+-->
+
+## 🛡️ Vulnerability Management
+
+🔹 **[Vulnerability Management Program Implementation](https://github.com/williamolega/Vulnerability-Management-Program-Implementation)**  
+🔹 **[Windows 11 STIG Remediations (PowerShell)](https://github.com/williamolega/williamolega/tree/main/STIGs)**  
+
+Focus areas:
+- Secure baselines and hardening
+- Risk-based remediation workflows
+- Practical vulnerability reduction
+
+---
+
+## 🕵️ Threat Hunting & Security Operations
+
+🔸 **[Tor Browser Threat Hunt](https://github.com/williamolega/Threat-Hunt-Scenario-Tor)**  
+🔸 **[Helpdesk Deception Threat Hunt](https://github.com/williamolega/Helpdesk-Deception-Threat-Hunt)**  
+
+Focus areas:
+- Behavioral detection and attacker tradecraft
+- Context, sequence, and intent over single events
+- Defender mindset and investigation flow
+
+---
+
+## 🧩 Skills Developed
+
+| Area | Focus |
+|------|------|
+| Identity & Access | Active Directory, DNS fundamentals |
+| Infrastructure | Network segmentation, trust boundaries |
+| Vulnerability Mgmt | STIGs, remediation logic |
+| Threat Hunting | ATT&CK thinking, investigation flow |
+| Logging & Auditing | Windows audit policy |
+| Automation | PowerShell hardening scripts |
+
+---
+
+## 🚀 What’s Next
+
+- Vulnerability scanning in the AD environment  
+- Endpoint telemetry and detection logic  
+- Cloud identity and logging (Azure / Entra ID)  
+- Detection engineering and GRC layering  
+
+---
+
+<!-- FUTURE CATEGORIES:
+- Cloud Security
+- Identity Protection
+- Incident Response
+- GRC & Risk
+- Automation & Engineering
+-->
 
 ## 🤝 Connect With Me
 
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamolega/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/WilliamOlega)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@williamolega)
+[![Instagram](https://img.shields.io/badge/Instagram-D82B7D?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/williamolega)
 
-[twitter]: https://x.com/WilliamOlega
-[youtube]: https://www.youtube.com/@williamolega
-[instagram]: https://www.instagram.com/williamolega/
-[linkedin]: https://www.linkedin.com/in/williamolega/
+---
 
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+> *Clarity → Intuition → Skill → Trust.*
+
